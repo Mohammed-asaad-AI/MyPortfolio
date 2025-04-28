@@ -47,10 +47,26 @@ University of Tartus | Graduated: September 2024.
 ---
 
 <h2>🛠 Tools & Technologies</h2>
-<!--<p align="left">
-  <img src="" width="40"/>
-  <img src="" width="40"/>
-  <!-- Add more icons here -->
+<p align="left">
+ <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+   <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+
+ <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/kaggle" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/keras" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/Flask/white" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/PyTorch" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/googlecolab" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/opencv" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/pandas" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter" />
+
+ <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
 </p>
 
 ---
@@ -73,4 +89,4 @@ University of Tartus | Graduated: September 2024.
 ---
 
 <h2>⚡ Fun Fact</h2>
-<p>[Insert a fun or quirky fact about yourself]</p>
+<b><p>"Discipline is the silent force that builds your dreams brick by brick. Stay consistent, stay focused and the impossible will soon be your reality."</p>
