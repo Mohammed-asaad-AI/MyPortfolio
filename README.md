@@ -9,17 +9,19 @@
 ---
 
 <h2>📍 About Me</h2>
+
+
 <ul>
   <li>🧠 Motivated and detail-oriented Data Scientist with hands-on experience in machine learning, deep learning, and AI-powered solutions. Adept at solving real-world problems through statistical modeling and data-driven approaches. Strong foundation in Python, data visualization, and end-to-end project development. Eager to contribute to innovative teams and make meaningful impact through data.</li>
-<li>⚙️ My Tech Skills</li>
+<br><li>⚙️ My Tech Skills</li>
 <ul>
   <li>Programming & Tools: Python , SQL , Jupyter, Google Colab.</li>
 <li>Machine Learning & AI: TensorFlow, Keras, PyTorch, OpenCV</li>
 <li>Cloud & Deployment: Flask, FastAPI, Docker, AWS (basic)</li>
 <li>Version Control & Methodologies: Git, GitHub, Agile</li>
 </li></ul>
-  <li>🌍 Muscat | Oman</li>
-  <li>🏆 <b>B.Sc.</b> in Information & Communication Technology Engineering
+ <br> <li>🌍 Muscat | Oman</li>
+ <br> <li>🏆 <b>B.Sc.</b> in Information & Communication Technology Engineering
 University of Tartus | Graduated: September 2024.
 </li>
 </ul>
@@ -30,9 +32,8 @@ University of Tartus | Graduated: September 2024.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔹 [**Google Stock Price Prediction Using ML Models**](#) | We predict the future stock prices of Googleusing historical data.
- | [Tech stack] |
-| 🔹 [**Breast Cancer Prediction **](#) | [Short description] | [Tech stack] |
+| 🔹 [**Google Stock Price Prediction Using ML Models**](#) | We predict the future stock prices of Googleusing historical data. | Python , Linea Regressin , SVM , pandas , MatPlot ,  |
+| 🔹 [**Breast Cancer Prediction **](#) | We predict Breast Cancer from Numerical Data  | K Nearest Neighbors  , Sklearn , python , pandas , numpy |
 
 ---
 
@@ -46,7 +47,7 @@ University of Tartus | Graduated: September 2024.
 ---
 
 <h2>🛠 Tools & Technologies</h2>
-<p align="left">
+<!--<p align="left">
   <img src="" width="40"/>
   <img src="" width="40"/>
   <!-- Add more icons here -->
