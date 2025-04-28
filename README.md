@@ -83,7 +83,7 @@ University of Tartus | Graduated: September 2024.
 <ul>
   <li>📧 Email: <a href="mo.asaad999@gmail.com">My Email</a></li>
   <li>💼 LinkedIn: <a href="#">https://www.linkedin.com/in/mohammed-asaad99/</a></li>
-  <li>💻 GitHub: <a href="#">Your GitHub</a></li>
+  <li>💻 GitHub: <a href="#">https://github.com/Mohammed-asaad-AI</a></li>
 </ul>
 
 ---
