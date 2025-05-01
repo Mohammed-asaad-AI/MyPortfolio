@@ -32,8 +32,8 @@ University of Tartus | Graduated: September 2024.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔹 [**Google Stock Price Prediction Using ML Models**](#) | We predict the future stock prices of Googleusing historical data. | Python , Linea Regressin , SVM , pandas , MatPlot ,  |
-| 🔹 [**Breast Cancer Prediction **](#) | We predict Breast Cancer from Numerical Data  | K Nearest Neighbors  , Sklearn , python , pandas , numpy |
+| 🔹 [**Google Stock Price Prediction Using ML Models**](#) | A machine learning project to forecast Google stock prices using SVM, Linear Regression, and Random Forest models. Includes feature engineering and model performance visualization. | Python , Linea Regressin , SVM , pandas , MatPlot ,  |
+| 🔹 [**Breast Cancer Prediction **](#) |A simple machine learning project comparing a manual K-Nearest Neighbors (KNN) implementation with Scikit-learn’s KNN classifier on breast cancer diagnosis data.  | K Nearest Neighbors  , Sklearn , python , pandas , numpy |
 
 ---
 
