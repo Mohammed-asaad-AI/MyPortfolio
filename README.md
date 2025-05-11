@@ -1,3 +1,7 @@
+<p align="center">
+<img src="banner1.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammed Asaad</h1>
 <h3 align="center">Fresh Data Scientist | ICT Engineer | Machine Learning & AI Enthusiast</h3>
 
