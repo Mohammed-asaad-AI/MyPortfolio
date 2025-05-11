@@ -1,92 +1,96 @@
-<h1 align="center">Hi 👋, I'm Mohammed Asaad </h1>
-<h3 align="center">Fresh Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Asaad</h1>
+<h3 align="center">Fresh Data Scientist | ICT Engineer | Machine Learning & AI Enthusiast</h3>
+
 <p align="center">
-  <strong>ICT Engineer</strong> • Data Scientist | Machine Learning & AI | Turning Data into Business Insights
+  <strong>Turning data into impactful insights — one model at a time.</strong>
 </p>
-
-
 
 ---
 
 <h2>📍 About Me</h2>
 
-
 <ul>
-  <li>🧠 Motivated and detail-oriented Data Scientist with hands-on experience in machine learning, deep learning, and AI-powered solutions. Adept at solving real-world problems through statistical modeling and data-driven approaches. Strong foundation in Python, data visualization, and end-to-end project development. Eager to contribute to innovative teams and make meaningful impact through data.</li>
-<br><li>⚙️ My Tech Skills</li>
-<ul>
-  <li>Programming & Tools: Python , SQL , Jupyter, Google Colab.</li>
-<li>Machine Learning & AI: TensorFlow, Keras, PyTorch, OpenCV</li>
-<li>Cloud & Deployment: Flask, FastAPI, Docker, AWS (basic)</li>
-<li>Version Control & Methodologies: Git, GitHub, Agile</li>
-</li></ul>
- <br> <li>🌍 Muscat | Oman</li>
- <br> <li>🏆 <b>B.Sc.</b> in Information & Communication Technology Engineering
-University of Tartus | Graduated: September 2024.
-</li>
+  <li>🎓 B.Sc. in Information & Communication Technology Engineering – University of Tartus (Graduated: September 2024)</li>
+  <li>🌍 Based in Muscat, Oman</li>
+  <br>
+  <li>🧠 Passionate, detail-oriented data scientist with practical experience in building ML pipelines, applying deep learning, and working with real-world datasets. Strong skills in Python, visualization, and statistical modeling with a keen interest in AI applications that solve business problems.</li>
+  <br>
+  <li>⚙️ <b>Technical Skills</b>
+    <ul>
+      <li><strong>Languages & Tools:</strong> Python, SQL, Jupyter, Google Colab</li>
+      <li><strong>Libraries:</strong> NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn</li>
+      <li><strong>AI & ML:</strong> TensorFlow, Keras, PyTorch, OpenCV</li>
+      <li><strong>Web & Deployment:</strong> Flask, FastAPI, Docker</li>
+      <li><strong>Other:</strong> Git, GitHub, Agile Methodology</li>
+    </ul>
+  </li>
 </ul>
 
 ---
 
 <h2>🚀 Featured Projects</h2>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔹 [**Google Stock Price Prediction Using ML Models**](#) | A machine learning project to forecast Google stock prices using SVM, Linear Regression, and Random Forest models. Includes feature engineering and model performance visualization. | Python , Linea Regressin , SVM , pandas , MatPlot ,  |
-| 🔹 [**Breast Cancer Prediction **](#) |A simple machine learning project comparing a manual K-Nearest Neighbors (KNN) implementation with Scikit-learn’s KNN classifier on breast cancer diagnosis data.  | K Nearest Neighbors  , Sklearn , python , pandas , numpy |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔹 [**Google Stock Price Prediction**](https://github.com/Mohammed-asaad-AI/Google-Stock-Price-Prediction) | Forecasted Google stock prices using machine learning models like SVM, Linear Regression, and Random Forest. Includes feature engineering and performance visualization. | Python, Pandas, Matplotlib, Scikit-learn |
+| 🔹 [**Breast Cancer Prediction**](https://github.com/Mohammed-asaad-AI/Breast-Cancer-Prediction) | Compared a manual KNN implementation to Scikit-learn’s classifier to predict cancer diagnoses. | Python, Numpy, Scikit-learn |
+| 🔹 [**KMeans Clustering - Titanic Analysis**](https://github.com/Mohammed-asaad-AI/KMeans-Clustering-Project) | Unsupervised learning on Titanic dataset using KMeans and PCA with full exploratory analysis. | Python, Pandas, Seaborn, Scikit-learn |
 
 ---
 
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-asaad-AI&show_icons=true&theme=radical" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-asaad-AI&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-asaad-AI&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-asaad-AI&theme=radical" width="48%"/>
 </p>
 
 ---
 
 <h2>🛠 Tools & Technologies</h2>
+
 <p align="left">
- <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-   <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-
- <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/kaggle" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/keras" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/Flask/white" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/PyTorch" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/googlecolab" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/opencv" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/pandas" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
- <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter" />
-
- <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
+  <img height="30" src="https://cdn.simpleicons.org/git" />
+  <img height="30" src="https://cdn.simpleicons.org/github" />
+  <img height="30" src="https://cdn.simpleicons.org/mysql" />
+  <img height="30" src="https://cdn.simpleicons.org/docker" />
+  <img height="30" src="https://cdn.simpleicons.org/python" />
+  <img height="30" src="https://cdn.simpleicons.org/kaggle" />
+  <img height="30" src="https://cdn.simpleicons.org/keras" />
+  <img height="30" src="https://cdn.simpleicons.org/flask" />
+  <img height="30" src="https://cdn.simpleicons.org/pytorch" />
+  <img height="30" src="https://cdn.simpleicons.org/arduino" />
+  <img height="30" src="https://cdn.simpleicons.org/raspberrypi" />
+  <img height="30" src="https://cdn.simpleicons.org/googlecolab" />
+  <img height="30" src="https://cdn.simpleicons.org/opencv" />
+  <img height="30" src="https://cdn.simpleicons.org/pandas" />
+  <img height="30" src="https://cdn.simpleicons.org/numpy" />
+  <img height="30" src="https://cdn.simpleicons.org/jupyter" />
+  <img height="30" src="https://cdn.simpleicons.org/tensorflow" />
 </p>
 
 ---
 
-<h2>🏅 My Certificates </h2>
+<h2>🏅 Certifications</h2>
 
-- 🧠 Machine Learning and Deep learning course  
-- 🔰 Python and Data Analysis Course 
-- 📊 My Kaggle: [@mohammedasaad7](#)
+- 🧠 Machine Learning and Deep Learning – Advanced Course  
+- 🔰 Python and Data Analysis – Foundation Level  
+- 📊 Check out my [Kaggle profile](https://www.kaggle.com/mohammedasaad7)
 
 ---
 
 <h2>📫 Connect with Me</h2>
+
 <ul>
-  <li>📧 Email: <a href="mo.asaad999@gmail.com">My Email</a></li>
-  <li>💼 LinkedIn: <a href="#">https://www.linkedin.com/in/mohammed-asaad99/</a></li>
-  <li>💻 GitHub: <a href="#">https://github.com/Mohammed-asaad-AI</a></li>
+  <li>📧 Email: <a href="mailto:mo.asaad999@gmail.com">mo.asaad999@gmail.com</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-asaad99/">mohammed-asaad99</a></li>
+  <li>💻 GitHub: <a href="https://github.com/Mohammed-asaad-AI">Mohammed-asaad-AI</a></li>
 </ul>
 
 ---
 
 <h2>⚡ Fun Fact</h2>
-<b><p>"Discipline is the silent force that builds your dreams brick by brick. Stay consistent, stay focused and the impossible will soon be your reality."</p>
+
+<blockquote>
+"Discipline is the silent force that builds your dreams brick by brick. Stay consistent, stay focused — and the impossible will soon be your reality."
+</blockquote>
