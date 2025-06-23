@@ -15,6 +15,14 @@
   <img src="https://img.shields.io/badge/Oman-Based%20Engineer-%23B22222?style=flat-square&logo=world&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20To%20Work-%2300C853?style=flat-square&logo=github&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
 
 ---
 
@@ -62,14 +70,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-asaad-AI&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-asaad-AI&theme=radical" width="48%"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-asaad-AI&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Data+Scientist+%7C+ICT+Engineer;AI+%26+ML+Enthusiast;Transforming+data+into+insights" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-asaad-AI&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-asaad-AI&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohammed-asaad-AI&theme=react-dark" alt="Activity Graph" />
 </p>
+
 
 ---
 
@@ -88,13 +97,27 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" />
 </p>
 
----
 
+## ☁️ Cloud & DevOps Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
+---
 ## 💡 What I'm Currently Working On
 
-- 📊 Streamlit dashboard for real-time analytics  
-- 🤖 Improving CNN model with data augmentation  
-- 📘 Preparing for TensorFlow Developer Certification  
+- 🚀 Building a cloud-based portfolio website with Flask & Azure (now live!)
+- ☁️ Learning advanced Azure services: App Services, Blob Storage, and CI/CD via GitHub Actions
+- 🔄 Dockerizing ML apps for faster and reproducible deployment
+- 📊 Developing a real-time analytics dashboard using Streamlit + Azure Functions
+- 🧠 Experimenting with HuggingFace Transformers for NLP classification tasks
+- 📘 Preparing for Microsoft Azure Fundamentals (AZ-900) certification
 
 ---
 
