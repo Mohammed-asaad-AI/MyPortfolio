@@ -68,16 +68,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-asaad-AI&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-asaad-AI&theme=radical" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Data+Scientist+%7C+ICT+Engineer;AI+%26+ML+Enthusiast;Transforming+data+into+insights" />
-</p>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-asaad-AI&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+  <p align="center">
+ 
+
+
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-asaad-AI&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohammed-asaad-AI&theme=react-dark" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-asaad-AI&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 
 
 ---
