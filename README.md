@@ -52,6 +52,7 @@
 | 🔹 [Google Stock Prediction](https://github.com/Mohammed-asaad-AI/Google-Stock-Price-Prediction) | Stock forecasting using ML models with visual analytics. | Python, Scikit-learn, Pandas |
 | 🔹 [Breast Cancer Prediction](https://github.com/Mohammed-asaad-AI/Breast-Cancer-Prediction) | Manual KNN vs sklearn KNN on diagnosis data. | Python, NumPy, Scikit-learn |
 | 🔹 [KMeans Titanic Clustering](https://github.com/Mohammed-asaad-AI/KMeans-Clustering-Project) | Unsupervised learning with PCA & survival analysis. | Pandas, Seaborn, Scikit-learn |
+| 🔹 [Personal Portfolio Website](https://github.com/Mohammed-asaad-AI/My-Website) | Responsive AI & Cloud portfolio website using Flask, deployed on Azure. | HTML, CSS, JavaScript, Flask, Azure |
 
 ---
 
